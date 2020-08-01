@@ -12,5 +12,5 @@ Employee Satisfaction Metrics (Mood Marbles) and SW process attainment and compl
 
 ![](images/Hardware%20Process%20Metrics.jpg)
 
-![](images/US%20PUBLIC.JPG)
+![](images/moodmarblespublic.jpg)
 
