@@ -10,4 +10,4 @@ Projects developed related to Business Intelligence, Data Science methodoloy and
 
 Employee Satisfaction Metrics (Mood Marbles) and SW process attainment and compliance
 
-![](images/moodmarbles2.jpg)
+![](images/Hardware%20Process%20Metrics.jpg)
