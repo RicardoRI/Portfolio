@@ -1,5 +1,3 @@
-# portfolio
-Projects developed related to Business Intelligence, Data Science methodoloy and Statistics.
 
 ## [Project 1: Accelerate Dashboards in Cognos Analytics for the Asset Management Department](https://ibm.box.com/s/kgi1tknkb4p5fcozw8fo786d5x26u07n)
 * Developed a Dynamic dashboards in Cognos Analytics to conduct trend analysis on key Accelerate Metrics for squad members, iteration managers, squad leaders and global leaders. The solution included operations, client satisfaction (NPS) and employee satisfaction (Mood Marbles) metrics.
