@@ -10,7 +10,7 @@ Employee Satisfaction Metrics (Mood Marbles) and SW process attainment and compl
 
 Throughput, Cycle Time and Backlog metrics for the Hardware Acquisitions Process.
 
-![](images/Hardware%20Process%20Metrics.jpg)
+![](images/Hardware%20Process%20Metrics2.jpg)
 
 
 ## [Project 2: Cycle Time Analysis by Business Unit]()
