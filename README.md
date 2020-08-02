@@ -20,6 +20,8 @@ Throughput, Cycle Time and Backlog metrics for the Hardware Acquisitions Process
 * For dynamic results, Python library Plotly was used for data visualization
 * Conclusion: Output visualization provided the upper limit Cycle Time by Business Unit, allowing the Sales Team to focus on reviewing those opportunities marked as outliers by the Box Plot visualization.
 
+![](images/boxplotPUBLIC.jpg)
+
 
 ## [Project 3: Cognos Analytics dashborard for in campus initiative]()
 * Developed a Cognos Analytics dashboard to obtain the NPS score from the  IBM Sales Dashboard Workshops provided by the local ISD initiative
