@@ -4,11 +4,11 @@
 * Tools: Cognos Analytics to develop visualizations, Cognos Framework Manager for data package creation, Excel for manual uploads, IBM Forms for data capturing.
 * Managed access and permissions for Cognos Analytics Analytics folder used for global business metrics within Asset Management via Blue Groups.
 
-Employee Satisfaction Metrics (Mood Marbles) and SW process attainment and compliance
+Employee Satisfaction Metrics (Mood Marbles), Attainment and compliance dashboards
 
 ![](images/moodmarblespublic2.jpg)
 
-Throughput, Cycle Time and Backlog metrics for the Hardware Acquisitions Process.
+Throughput, Cycle Time and Backlog metrics.
 
 ![](images/Hardware%20Process%20Metrics2.jpg)
 
