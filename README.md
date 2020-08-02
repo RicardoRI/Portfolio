@@ -6,7 +6,7 @@
 
 Employee Satisfaction Metrics (Mood Marbles) and SW process attainment and compliance
 
-![](images/moodmarblespublic.jpg)
+![](images/moodmarblespublic2.jpg)
 
 Throughput, Cycle Time and Backlog metrics for the Hardware Acquisitions Process.
 
