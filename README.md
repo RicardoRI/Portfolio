@@ -13,6 +13,8 @@ Throughput, Cycle Time and Backlog metrics.
 ![](images/Hardware%20Process%20Metrics2.jpg)
 
 
+
+
 ## [Project 2: Cycle Time Analysis by Business Unit]()
 * Created an estatistical analysis on Cycle Time using Box Plot visualizations by Business Unit
 * Raw data was extracted from Cognos reports and analyzed in Jupyter Notebooks
@@ -21,6 +23,8 @@ Throughput, Cycle Time and Backlog metrics.
 * Conclusion: Output visualization provided the upper limit Cycle Time by Business Unit, allowing the Sales Team to focus on reviewing those opportunities marked as outliers by the Box Plot visualization.
 
 ![](images/boxplotPUBLIC.jpg)
+
+
 
 
 ## [Project 3: Cognos Analytics dashborard for in campus initiative]()
