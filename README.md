@@ -26,3 +26,5 @@ Throughput, Cycle Time and Backlog metrics for the Hardware Acquisitions Process
 ## [Project 3: Cognos Analytics dashborard for in campus initiative]()
 * Developed a Cognos Analytics dashboard to obtain the NPS score from the  IBM Sales Dashboard Workshops provided by the local ISD initiative
 * Tools: Watson Studio in IBM Cloud.
+
+![](images/INITIATIVE%20PUBLIC.jpg)
