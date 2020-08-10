@@ -1,6 +1,6 @@
 
 ## [Project 1: Accelerate Dashboards in Cognos Analytics for the Asset Management Department]()
-* Developed Dynamic dashboards in Cognos Analytics to conduct trend analysis on key Accelerate Metrics for squad members, iteration managers, squad leaders and global leaders. The solution included operations, client satisfaction (NPS) and employee satisfaction (Mood Marbles) metrics.
+* Developed Dynamic dashboards in Cognos Analytics to conduct trend analysis on key Accelerate Metrics for 200 squads and iteration managers, 50 squad leaders and 10 global leaders. The solution included operations, client satisfaction (NPS) and employee satisfaction (Mood Marbles) metrics.
 * Tools: Cognos Analytics to develop visualizations, Cognos Framework Manager for data package creation, Excel for manual uploads, IBM Forms for data capturing.
 * Managed access and permissions for Cognos Analytics Analytics folder used for global business metrics within Asset Management via Blue Groups.
 
